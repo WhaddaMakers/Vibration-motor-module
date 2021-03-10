@@ -10,4 +10,4 @@ The example program produces the classic "Nokia SMS vibration" pattern on the vi
 ![](./wiring_diagram_bb.png)
 
 ## Additional information
-  For more information about the Whadda WPSM458 vibration motor module, check the manual available at [whadda.com](https://whadda.com)
+  For more information about the Whadda WPM458 vibration motor module, check the manual available at [whadda.com](https://whadda.com)
