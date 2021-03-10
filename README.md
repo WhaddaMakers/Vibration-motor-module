@@ -1,6 +1,6 @@
-# WPSM458 vibration motor module
+# WPM458 vibration motor module
 
-This example shows how you can use the Whadda WPSE352 vibration motor module with an Arduino® compatible board.
+This example shows how you can use the Whadda WPM458 vibration motor module with an Arduino® compatible board.
 The example program produces the classic "Nokia SMS vibration" pattern on the vibration motor.
 
 ## Library dependencies
